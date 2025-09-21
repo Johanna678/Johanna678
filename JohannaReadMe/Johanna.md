@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Johann
+# 👋 Hi there, I'm Johanna
 
 Welcome to my GitHub space! I'm a developer passionate about building secure, intuitive desktop applications—especially using **Java**, **Swing**, and **SQLite**.
 
